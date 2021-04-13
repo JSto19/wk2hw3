@@ -1,16 +1,3 @@
-import math
-
-def h_area():
-    input('The width of your home: ')
-    input('The length of your home: ')
-    return h_area
-
-
-
-height = int
-width = int
-h_area = (height * width)
-
 def circle():
     input('What is the radius of your circle? : ')
 
